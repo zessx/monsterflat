@@ -1,7 +1,4 @@
-[Monsterflat](http://smarchal.com/monsterflat/)
-===========
-A monstrous pack of flat websites' logos
-
+![Monsterflat - A monstrous pack of flat websites' logos](/cover.png "Monsterflat - A monstrous pack of flat websites' logos")
 Overview
 --------
 - 7 utility glyphes
@@ -53,6 +50,7 @@ Legals
 - Author : [zessx](https://github.com/zessx)
 - Licence : created under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) licence
 - Contact : [@zessx](https://twitter.com/zessx)
+- Link  : [http://smarchal.com/monsterflat/](http://smarchal.com/monsterflat/)
 
 TODO
 ----
