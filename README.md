@@ -48,7 +48,7 @@ Tip : you can move the mf-square class to a container :
 Legals
 ------
 - Author : [zessx](https://github.com/zessx)
-- Licence : created under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) licence
+- Licence : [MIT](http://opensource.org/licenses/MIT) 
 - Contact : [@zessx](https://twitter.com/zessx)
 - Link  : [http://smarchal.com/monsterflat/](http://smarchal.com/monsterflat/)
 
