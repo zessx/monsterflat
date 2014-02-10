@@ -52,6 +52,11 @@ Legals
 - Contact : [@zessx](https://twitter.com/zessx)
 - Link  : [http://smarchal.com/monsterflat/](http://smarchal.com/monsterflat/)
 
+Donations
+---------
+
+[![Buy me a coffee !](http://smarchal.com/bmac)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=KTYWBM9HJMMSE&lc=FR&item_name=Buy%20a%20coffee%20to%20zessx%20%28Samuel%20Marchal%29&currency_code=EUR&bn=PP%2dDonationsBF%3abmac%3aNonHosted)
+
 TODO
 ----
 - Add a few suggested icons
