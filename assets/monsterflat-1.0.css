@@ -3,7 +3,7 @@ Document : MonsterFlat
 Author   : Samuel Marchal - @zessx
 Version  : 1.0
 Update   : 2013-05-16
-Licence  : CC-BY 3.0 - http://creativecommons.org/licenses/by/3.0/
+Licence  : MIT - http://opensource.org/licenses/MIT
 */
 .mf-32  { display: block; width: 32px;  height: 32px;  border-radius: 16px; background: transparent url(./monsterflat/mf-icons-circle32.png) 0 0; } 
 .mf-64  { display: block; width: 64px;  height: 64px;  border-radius: 32px; background: transparent url(./monsterflat/mf-icons-circle64.png) 0 0; } 
