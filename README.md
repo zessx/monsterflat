@@ -1,4 +1,4 @@
 Monsterflat
 ===========
 
-[http://monsterflat.smarchal.com](http://monsterflat.smarchal.com)
+[http://work.smarchal.com/monsterflat](http://work.smarchal.com/monsterflat)
