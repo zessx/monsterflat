@@ -50,7 +50,6 @@ Legals
 - Author : [zessx](https://github.com/zessx)
 - Licence : [MIT](http://opensource.org/licenses/MIT) 
 - Contact : [@zessx](https://twitter.com/zessx)
-- Link  : [http://monsterflat.smarchal.com](http://monsterflat.smarchal.com)
 
 Donations
 ---------
